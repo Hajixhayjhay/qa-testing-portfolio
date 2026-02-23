@@ -26,7 +26,7 @@ API testing and automation.
 **Bugs Found:** 6
 **Tools:** Chrome, GitHub
 
-[View Project](01-login-testing-practicetestautomation/)
+[View Project](01-login-testing/)
 
 ## Certifications
 - ISTQB Foundation Level (in progress)
